@@ -36,7 +36,7 @@ Gracias a su interfaz amigable, ayuda a gestionar las tareas diarias de forma ef
 ---
 ## Capturas de pantalla
 
-![Pantalla Principal](app/Tasks.png)
-![Agregar Tarea](app/add_tasks.png)
-![Editar Tarea](app/edit_tasks.png)
+![Pantalla Principal](app/tasks1.png)
+![Agregar Tarea](app/add_tasks1.png)
+![Editar Tarea](app/edit_tasks1.png)
 
